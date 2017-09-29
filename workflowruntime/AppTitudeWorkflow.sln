@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppTitudeWorkflow", "..\..\WebSites\AppTitudeWorkflow\", "{AF06BFC2-B0DE-4BB4-B280-F561D82E602D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}|WriteLineActivity.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/AppTitudeWorkflow"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\AppTitudeWorkflow\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AppTitudeWorkflow\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AppTitudeWorkflow"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\AppTitudeWorkflow\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AppTitudeWorkflow\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57172"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWorkflow", "SimpleWorkflow\SimpleWorkflow.csproj", "{0DE221EA-EB03-4211-AE8B-12E4F8470BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteLineActivity", "WriteLineActivity\WriteLineActivity.csproj", "{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF06BFC2-B0DE-4BB4-B280-F561D82E602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF06BFC2-B0DE-4BB4-B280-F561D82E602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF06BFC2-B0DE-4BB4-B280-F561D82E602D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF06BFC2-B0DE-4BB4-B280-F561D82E602D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0DE221EA-EB03-4211-AE8B-12E4F8470BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE221EA-EB03-4211-AE8B-12E4F8470BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE221EA-EB03-4211-AE8B-12E4F8470BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE221EA-EB03-4211-AE8B-12E4F8470BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ADD623-FC6B-408B-8FD5-58F0F7F6ABF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

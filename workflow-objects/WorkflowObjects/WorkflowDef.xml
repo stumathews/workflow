@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<workflow identifier="StandardWokflow" description="Our standard business workflow">
+  <stage name="begin">
+    <activity name="RunMyVBScript" type="Workflow.Activity.Scripts.VB" path="c:\myScript.vs"> 
+      Definition of Activity
+    </activity>
+    <activity name="showMyForm" type="Workflow.Activity.GenericForm" description="Shows my form to the user">
+      A generic Form xml definition goes in here
+    </activity>
+  </stage>
+  <stage name="middle"></stage>
+  <stage name="end">
+    <activity name="nothing" type="nothing" description="nothing">
+      nothing activity defintion
+    </activity>
+  </stage>
+</workflow>

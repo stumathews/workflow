@@ -1,0 +1,16 @@
+C:\Users\mathst\Desktop\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\mathst\Desktop\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\SplashScreen.frmSplash.resources
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\mathst\Desktop\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\SplashScreen.frmSplash.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflowdesigner\SplashScreen\obj\Debug\SplashScreen.pdb

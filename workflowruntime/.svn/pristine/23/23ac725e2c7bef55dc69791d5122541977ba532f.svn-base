@@ -1,0 +1,21 @@
+﻿<SequentialWorkflowActivity x:Name="SimpleWorkflow" xmlns:ns0="clr-namespace:WriteLineActivity;Assembly=WriteLineActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<SequenceActivity x:Name="Activity1">
+		<ns0:WriteLine Message="Message One" x:Name="writeLine1" />
+	</SequenceActivity>
+	<DelayActivity TimeoutDuration="00:00:01" x:Name="delayActivity1" />
+	<IfElseActivity x:Name="ifElseActivity1">
+		<IfElseBranchActivity x:Name="ifElseBranchActivity1">
+			<IfElseBranchActivity.Condition>
+				<RuleConditionReference ConditionName="sd" />
+			</IfElseBranchActivity.Condition>
+		</IfElseBranchActivity>
+		<IfElseBranchActivity x:Name="ifElseBranchActivity2">
+			<IfElseBranchActivity.Condition>
+				<RuleConditionReference ConditionName="sdf" />
+			</IfElseBranchActivity.Condition>
+		</IfElseBranchActivity>
+	</IfElseActivity>
+	<SequenceActivity x:Name="activity2">
+		<ns0:WriteLine Message="Message Two" x:Name="writeLine2" />
+	</SequenceActivity>
+</SequentialWorkflowActivity>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApptitudeWorkflowDesigner", "ApptitudeWorkflowDesigner\ApptitudeWorkflowDesigner.csproj", "{36261C19-5EA8-4886-93DA-9D26782D73DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreen", "SplashScreen\SplashScreen.csproj", "{2B3523FB-8AC7-4137-8884-4ACCD1EF0335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDesignerControl", "WorkflowDesignerControl\WorkflowDesignerControl.csproj", "{753E3A04-17F0-4EF5-B834-58E1B9E05564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36261C19-5EA8-4886-93DA-9D26782D73DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36261C19-5EA8-4886-93DA-9D26782D73DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36261C19-5EA8-4886-93DA-9D26782D73DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36261C19-5EA8-4886-93DA-9D26782D73DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3523FB-8AC7-4137-8884-4ACCD1EF0335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3523FB-8AC7-4137-8884-4ACCD1EF0335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3523FB-8AC7-4137-8884-4ACCD1EF0335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3523FB-8AC7-4137-8884-4ACCD1EF0335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753E3A04-17F0-4EF5-B834-58E1B9E05564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753E3A04-17F0-4EF5-B834-58E1B9E05564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753E3A04-17F0-4EF5-B834-58E1B9E05564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753E3A04-17F0-4EF5-B834-58E1B9E05564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

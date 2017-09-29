@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><StateMachineWorkflowDesigner xmlns:ns0="clr-namespace:System.Drawing;Assembly=System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Name="Workflow1" Size="639, 820" AutoSizeMargin="16, 24" Location="30, 30" AutoSize="False" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<StateMachineWorkflowDesigner.Designers>
+		<StateDesigner Name="stateActivity1" Size="160, 80" AutoSizeMargin="16, 24" Location="144, 123" AutoSize="False">
+			<StateDesigner.Designers>
+				<StateInitializationDesigner Name="stateInitializationActivity1" Location="274, 148" Size="150, 121">
+					<StateInitializationDesigner.Designers>
+						<ActivityDesigner Name="writeLine1" Location="284, 209" Size="130, 41" />
+					</StateInitializationDesigner.Designers>
+				</StateInitializationDesigner>
+			</StateDesigner.Designers>
+		</StateDesigner>
+	</StateMachineWorkflowDesigner.Designers>
+</StateMachineWorkflowDesigner>

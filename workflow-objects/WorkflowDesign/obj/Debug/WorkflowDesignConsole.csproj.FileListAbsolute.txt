@@ -1,0 +1,9 @@
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\bin\Debug\WorkflowDesign.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\bin\Debug\WorkflowDesign.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\bin\Debug\WorkflowObjects.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\bin\Debug\WorkflowObjects.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\obj\Debug\WorkflowDesign.ApplicationListScreen.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\obj\Debug\WorkflowDesignConsole.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\obj\Debug\WorkflowDesign.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\workflow-objects\WorkflowDesign\obj\Debug\WorkflowDesign.pdb

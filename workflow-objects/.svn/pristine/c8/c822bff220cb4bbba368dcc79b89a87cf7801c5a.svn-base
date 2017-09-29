@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Workflow objects contain Activities">
+    <Position X="10.405" Y="8.93" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Workflow object contain Stages">
+    <Position X="3.791" Y="8.855" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Any application, non-apptitude or not should be represented as a NormalApplication for only NormalApplication can be converted into WorkflowApplications">
+    <Position X="1.625" Y="4.596" Height="1.43" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Controller will manage the state and be responsible for a WorkflowApplication in its workflow">
+    <Position X="3.672" Y="1.867" Height="0.935" Width="1.7" />
+  </Comment>
+  <Comment CommentText="WorkflowApplications are applications that are tracked by a workflow. They are modified by the controller">
+    <Position X="8.242" Y="4.54" Height="1.071" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Structure to contain information about the link between a WorkflowApplication  and apptitude application.">
+    <Position X="11.629" Y="3.533" Height="0.997" Width="1.7" />
+  </Comment>
+  <Class Name="WorkflowObjects.NormalApplication">
+    <Position X="3.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.Workflow">
+    <Position X="5.75" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAQAAAAAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>Workflow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowActivityBase" Collapsed="true">
+    <Position X="8.75" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>WorkflowActivityBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowApplication">
+    <Position X="5.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAACAAAAAAAAAAAAQAAAAAAACARAgCAAAAAAA=</HashCode>
+      <FileName>WorkflowApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.ASMApplicationLink">
+    <Position X="11.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkflowApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowApplicationController">
+    <Position X="5.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAAAAAAAAAAEAAAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>WorkflowApplicationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowFormActivity" Collapsed="true">
+    <Position X="9.75" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>WorkflowFormActivity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowLoader">
+    <Position X="1.25" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>WorkflowLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowScriptActivity" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>WorkflowScriptActivity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowStage">
+    <Position X="8.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkflowStage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowObjects.WorkflowHistory" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkflowHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WorkflowObjects.IWorkflowActivity" Collapsed="true">
+    <Position X="10.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IWorkflowActivity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

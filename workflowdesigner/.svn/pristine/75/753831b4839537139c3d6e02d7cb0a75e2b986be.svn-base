@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SplashScreen">
+</Property><Property Name="Solution File" Value="C:\Users\mathst\Desktop\SplashScreen\SplashScreen.sln">
+</Property><Property Name="Date" Value="25 June 2010">
+</Property><Property Name="Time" Value="14:24:42">
+</Property></Properties><Event ErrorLevel="0" Project="SplashScreen" Source="SplashScreen.csproj" Description="Project file successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\SplashScreen.csproj">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="frmSplash.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\frmSplash.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="frmSplash.Designer.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\frmSplash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Program.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Resources\sample-splash.png" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Resources\sample-splash.png">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="frmSplash.resx" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\frmSplash.resx">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\mathst\Desktop\SplashScreen\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="SplashScreen.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SplashScreen" Source="SplashScreen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SplashScreen" Source="SplashScreen.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

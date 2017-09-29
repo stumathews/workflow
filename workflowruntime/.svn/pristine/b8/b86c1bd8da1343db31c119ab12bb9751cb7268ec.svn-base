@@ -1,0 +1,6 @@
+﻿<RuleDefinitions xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<RuleDefinitions.Conditions>
+		<RuleExpressionCondition Expression="{p3:Null}" Name="sd" xmlns:p3="http://schemas.microsoft.com/winfx/2006/xaml" />
+		<RuleExpressionCondition Expression="{p3:Null}" Name="sdf" xmlns:p3="http://schemas.microsoft.com/winfx/2006/xaml" />
+	</RuleDefinitions.Conditions>
+</RuleDefinitions>
